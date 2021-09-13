@@ -2,7 +2,7 @@
 public class B {
 
     /** Factory */
-    static B create() {
+    public static B create() {
         return new B();	
     }
     
